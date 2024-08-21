@@ -19,14 +19,14 @@ global.location = "Togo, maritime, Lomé"
 
 global.ownernumber = '2250586588522' //creator number
 global.ownername = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛' //owner name
-global.botname = '𝙿𝙰𝚁𝙺𝚈-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
+global.botname = 'HADES-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
 
 //sticker details
 global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜'
 global.author = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
 
 //console view/theme
-global.themeemoji = '🩵'
+global.themeemoji = '🗿'
 global.wm = "𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 in©"
 
 //theme link
